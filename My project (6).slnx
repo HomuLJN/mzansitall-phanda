@@ -1,0 +1,19 @@
+﻿<Solution>
+  <Project Path="CandySmith.IAP.csproj" />
+  <Project Path="VContainer.csproj" />
+  <Project Path="DOTween.Modules.csproj" />
+  <Project Path="CandySmith.WordsToolkit.Main.csproj" />
+  <Project Path="CandySmith.LevelPlay.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="CandySmith.Settings.Editor.csproj" />
+  <Project Path="WordsToolkit.LevelEditor.csproj" />
+  <Project Path="VContainer.Editor.csproj" />
+  <Project Path="CandySmith.Ads.csproj" />
+  <Project Path="CandySmith.BlockPuzzle.Drawers.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="CandySmith.Localization.Editor.csproj" />
+  <Project Path="Reordable.csproj" />
+  <Project Path="ReordableEditor.csproj" />
+  <Project Path="ImageCreatorEditor.csproj" />
+  <Project Path="sc.utilities.screenshot.editor.csproj" />
+</Solution>
